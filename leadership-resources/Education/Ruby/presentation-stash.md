@@ -9,7 +9,8 @@
 * Using Enums: A Case Study
 
 ## Erin
-* Ruby Fundamentals
+* "Rails-Flavored" Ruby Fundamentals
+* Ruby Blocks and Iterators (in process)
 
 ## All
 * Intro to Ruby/Rails
