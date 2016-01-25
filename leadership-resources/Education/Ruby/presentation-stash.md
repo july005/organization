@@ -10,6 +10,8 @@
 
 ## Erin
 * Ruby Fundamentals
+* Ruby Blocks and Iterators
+* Authentication in Rails
 
 ## All
 * Intro to Ruby/Rails
